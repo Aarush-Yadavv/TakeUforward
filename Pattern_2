@@ -1,0 +1,10 @@
+for i in range (0,1):
+    for j in range(5, 0, -1):
+        print("*"*j)
+print("This is the second file in the TUF pattern.")
+
+# This code prints a pattern of stars in descending order
+
+#another way to print the same pattern        
+#for j in range(5, 0, -1):
+#    print("*"*j)
